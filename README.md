@@ -18,7 +18,7 @@ C语言我觉得是最值得任何程序员花大量的时间学习的语言.原
 4. [C和指针](http://www.amazon.cn/C%E5%92%8C%E6%8C%87%E9%92%88-Pointers-On-C-Kenneth-A-Reek/dp/B00163LU68/ref=sr_1_1?s=books&ie=UTF8&qid=1441954328&sr=1-1&keywords=C%E5%92%8C%E6%8C%87%E9%92%88) (进阶)| 对C语言来说,最难的概念就是`指针和数组`，还有指向数组的指针和指向指针的指针。C和指针花了大量的篇幅和图示来把这些难懂但重要的概念讲的清清楚楚.
 5. [C专家编程](http://www.amazon.cn/C%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8BExpert-C-Programming-Deep-C-Secrets-Peter-Van-Der-Linden/dp/B0012NIW9K/ref=sr_1_1?s=books&ie=UTF8&qid=1441954714&sr=1-1&keywords=c%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B)(进阶) |一本很轻松的书籍，它既包含了大量C语言技术细节和编程技巧，也包含了很多有趣的编程轶事，并专门开辟了一章对C++的基础知识进行了介绍.
 6. [C陷阱与缺陷](http://www.amazon.cn/C%E9%99%B7%E9%98%B1%E4%B8%8E%E7%BC%BA%E9%99%B7-%E5%87%AF%E5%B0%BC%E6%A0%BC/dp/B0012UMPBY/ref=sr_1_2?s=books&ie=UTF8&qid=1441954714&sr=1-2&keywords=c%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B)(进阶) | 可以看成是 Effective C.里面展示了使用c语言的各种陷阱与技巧.总之不想被各种bug整死,看这本书就对了.
- HHHHHHHHHHHHHH |
+
  
 ###2.C++
 **C++ 11出来之后,能与时俱进的书籍不是很多,推荐书籍变得容易多了**
