@@ -1,8 +1,8 @@
 # Learn-OpenGL
 关于OpenGL的学习资料
 
-##语言相关的书籍:
-###1.C语言
+## 语言相关的书籍:
+### 1.C语言
 C语言我觉得是最值得任何程序员花大量的时间学习的语言.原因是:
 
 1. c语言不在可能随着时间的变化而产生太大的变动,最多也就是一点修修补补.可以说是一朝学会,终生受用
@@ -20,7 +20,7 @@ C语言我觉得是最值得任何程序员花大量的时间学习的语言.原
 6. [C陷阱与缺陷](http://www.amazon.cn/C%E9%99%B7%E9%98%B1%E4%B8%8E%E7%BC%BA%E9%99%B7-%E5%87%AF%E5%B0%BC%E6%A0%BC/dp/B0012UMPBY/ref=sr_1_2?s=books&ie=UTF8&qid=1441954714&sr=1-2&keywords=c%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B)(进阶) | 可以看成是 Effective C.里面展示了使用c语言的各种陷阱与技巧.总之不想被各种bug整死,看这本书就对了.
 
  
-###2.C++
+### 2.C++
 **C++ 11出来之后,能与时俱进的书籍不是很多,推荐书籍变得容易多了**
 
 
@@ -30,7 +30,7 @@ C语言我觉得是最值得任何程序员花大量的时间学习的语言.原
 2. [C++ Primer](http://www.amazon.cn/C-Primer-%25E6%2596%25AF%25E5%259D%25A6%25E5%2588%25A9%25C2%25B7%25E6%259D%258E%25E6%2599%25AE%25E6%259B%25BC/dp/B00ESUIL0O?SubscriptionId=AKIAJMGEVRIO53UGJCYQ&tag=16-28-282__-23&linkCode=sp1&camp=2025&creative=165953&creativeASIN=B00ESUIL0O)(经典) | Stanley B. Lippman 是第一个C++的编译器的实现者.这本书完全可以当做参考书或者字典来用,该书既适合初学者,也适合一定经验的程序员.
 3. [Effective C++](http://www.amazon.cn/More-Effective-C-35%E4%B8%AA%E6%94%B9%E5%96%84%E7%BC%96%E7%A8%8B%E4%B8%8E%E8%AE%BE%E8%AE%A1%E7%9A%84%E6%9C%89%E6%95%88%E6%96%B9%E6%B3%95-%E6%A2%85%E8%80%B6/dp/B004IP8BD6/ref=sr_1_2?s=books&ie=UTF8&qid=1441957866&sr=1-2&keywords=effective+c) [More Effective C++](http://www.amazon.cn/More-Effective-C-35%E4%B8%AA%E6%94%B9%E5%96%84%E7%BC%96%E7%A8%8B%E4%B8%8E%E8%AE%BE%E8%AE%A1%E7%9A%84%E6%9C%89%E6%95%88%E6%96%B9%E6%B3%95-%E6%A2%85%E8%80%B6/dp/B004IP8BD6/ref=sr_1_2?s=books&ie=UTF8&qid=1441957866&sr=1-2&keywords=effective+c) [Effective STL](http://www.amazon.cn/%E4%B8%AD%E6%96%87%E7%89%88Effective-STL-50%E6%9D%A1%E6%9C%89%E6%95%88%E4%BD%BF%E7%94%A8STL%E7%9A%84%E7%BB%8F%E9%AA%8C-Scott-Meyers/dp/B00LL0M4JI/ref=sr_1_1?s=books&ie=UTF8&qid=1441957893&sr=1-1&keywords=effective+stl) | C++进阶和实战书籍,梅耶尔大师的三部曲,这三本书介绍了如何高效的使用C++和STL.该书最早使用了条款的形式介绍语言的特性和最佳实践方案.对后来很多此类程序书籍产生了巨大的影响.
 
-###3.iOS
+### 3.iOS
 
 
 书籍名称  | 简介 
@@ -45,7 +45,7 @@ C语言我觉得是最值得任何程序员花大量的时间学习的语言.原
 
 
 
-##OpenGL书籍:
+## OpenGL书籍:
 
 书籍名称  | 简介 
 ------- | ----
@@ -54,7 +54,7 @@ C语言我觉得是最值得任何程序员花大量的时间学习的语言.原
 [OpenGL超级宝典](http://item.jd.com/11008802.html) |传说中蓝宝书,里面的例子十分详细.入门必备
 [相关的电子书合集](http://vdisk.weibo.com/s/uwBBteN5RuOs4) | 上面介绍的书籍都有,还有一些其他的经典书籍.不过都是英文的
 
-##OpenGL网站:
+## OpenGL网站:
 
 网站名称  | 简介 
 -------  | ----
