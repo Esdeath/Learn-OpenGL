@@ -63,6 +63,8 @@ C语言我觉得是最值得任何程序员花大量的时间学习的语言.原
 [cs291 video downloads](https://www.udacity.com/wiki/cs291/downloads) | Udacity的公开课,很好的视频教程
 [OpenGLStepBySetp](http://ogldev.atspace.co.uk/index.html)| 跟着例子,一步一步学OpenGL,简单实用.
 [OpenGL ES for iOS](https://developer.apple.com/opengl-es/)|苹果官网的opengl教程,有文档,有例子.
-
+[信厚的独立博客](https://jiangxh1992.github.io/)|香港大学的高材生,里面关于opengl系列文章比较好,还有VR,Unity 3d
+[个人blog,渲染](http://zhangwenli.com/blog/) |(文章比较杂,里面卡通渲染文章比较不错)
+[iOS平台的OpenGlES教程](http://www.jianshu.com/nb/2135411)|(一般,不过关于iOS的OpenGL编程实在找不到更好的了)
 
 
